@@ -1,0 +1,40 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wave-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 30px;
+  width: 30px;
+}
+
+.wave-text {
+  color: #12022f;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.section-list {
+  padding-left: 0;
+  display: flex;
+}
+
+.section-item {
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.section-link {
+  text-decoration: none;
+  color: #12022f;
+  cursor: pointer;
+}

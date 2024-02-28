@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section-image {
+  width: 75%;
+  margin-bottom: 20px;
+}
+
+.heading {
+  color: #6d396b;
+  font-size: 28px;
+}
